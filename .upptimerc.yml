@@ -12,38 +12,52 @@ sites:
   - name: Yonia in Wonder World
     url: https://ponponforever.net/yoniagu
   - name: 三寶飯莊
+    slug: signature-combo-cafe
     url: https://ponponforever.net/miao
   - name: 小步走。不放棄
+    slug: walking
     url: https://ponponforever.net/walking
   - name: 徐漢珊畫集
+    slug: sandymon-painting
     url: https://ponponforever.net/sandymonblog
   - name: 漢珊畫集網誌
-    url: https://ponponforever.net/sandymombennyradio
+    slug: sandymon-blog
+    url: https://ponponforever.net/sandymom
   - name: 無聊齋2
+    slug: boringer2
     url: https://ponponforever.net/boringer2
   - name: 無聊齋主看世界
     url: https://ponponforever.net/benny
   - name: 無聊齋日誌
+    slug: boringer-log
     url: https://ponponforever.net/boringerlog
   - name: 章志彬的樂活網路電台
+    slug: benny-radio
     url: https://ponponforever.net/bennyradio
   - name: 胖胖廚房筆記
+    slug: ponpon-kitchen
     url: https://ponponforever.net/kitchen
   - name: 永遠的胖胖
+    slug: ponpon-forever-main
     url: https://ponponforever.net/main
   - name: 詩班通訊
+    slug: choir-communications
     url: https://ponponforever.net/cfcchc
   - name: 舊金山討論區
+    slug: san-francisco-forum
     url: https://ponponforever.net/forum
   - name: PONPON & BENNY'S TRAVEL LOG
     url: https://ponponforever.net/travel
   - name: Young Company, The Art of Glass
     url: https://ponponforever.net/samples/youngcom
   - name: 三寶飯莊(原)
+    slug: signature-combo-original
     url: https://ponponforever.net/3cats
   - name: Ponpon's Family
+    slug: ponpon-family
     url: https://ponponforever.net/family
   - name: 貓咪首頁
+    slug: cats
     url: https://ponponforever.net/cats
   - name: Young Company, The Art of Glass
     url: https://ponponforever.net/samples/youngcom
