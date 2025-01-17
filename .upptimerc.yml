@@ -3,19 +3,51 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Ponpon Forever
+    url: https://ponponforever.net/sf
+  - name: qmo
+    url: https://ponponforever.net/qmo
+  - name: Ponpon Diary
+    url: https://ponponforever.net/cestlavie
+  - name: Yonia in Wonder World
+    url: https://ponponforever.net/yoniagu
+  - name: 三寶飯莊
+    url: https://ponponforever.net/miao
+  - name: 小步走。不放棄
+    url: https://ponponforever.net/walking
+  - name: 徐漢珊畫集
+    url: https://ponponforever.net/sandymonblog
+  - name: 漢珊畫集網誌
+    url: https://ponponforever.net/sandymombennyradio
+  - name: 無聊齋2
+    url: https://ponponforever.net/boringer2
+  - name: 無聊齋主看世界
+    url: https://ponponforever.net/benny
+  - name: 無聊齋日誌
+    url: https://ponponforever.net/boringerlog
+  - name: 章志彬的樂活網路電台
+    url: https://ponponforever.net/bennyradio
+  - name: 胖胖廚房筆記
+    url: https://ponponforever.net/kitchen
+  - name: 永遠的胖胖
+    url: https://ponponforever.net/main
+  - name: 詩班通訊
+    url: https://ponponforever.net/cfcchc
+  - name: 舊金山討論區
+    url: https://ponponforever.net/forum
+  - name: PONPON & BENNY'S TRAVEL LOG
+    url: https://ponponforever.net/travel
+  - name: Young Company, The Art of Glass
+    url: https://ponponforever.net/samples/youngcom
+  - name: 三寶飯莊(原)
+    url: https://ponponforever.net/3cats
+  - name: Ponpon's Family
+    url: https://ponponforever.net/family
+  - name: 貓咪首頁
+    url: https://ponponforever.net/cats
+  - name: Young Company, The Art of Glass
+    url: https://ponponforever.net/samples/youngcom
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
