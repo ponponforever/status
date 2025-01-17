@@ -41,9 +41,10 @@ sites:
   - name: 永遠的胖胖
     slug: ponpon-forever-main
     url: https://ponponforever.net/main
-  - name: 詩班通訊應該需要密碼
+  - name: 詩班通訊應該拒絕無密碼遊客
     slug: choir-communications-guest
-    expectedStatusCodes: 401    
+    expectedStatusCodes:
+        - 401
     url: https://ponponforever.net/cfcchc/
   - name: 詩班通訊可用密碼進入
     slug: choir-communications-password  
