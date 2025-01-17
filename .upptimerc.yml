@@ -27,6 +27,7 @@ sites:
     slug: boringer2
     url: https://ponponforever.net/boringer2
   - name: 無聊齋主看世界
+    slug: boringer-see-world
     url: https://ponponforever.net/benny
   - name: 無聊齋日誌
     slug: boringer-log
@@ -70,8 +71,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "永遠的胖胖: 所有網站狀態一覽"
+  introMessage: "此網頁定期拜訪以下所有網站, 並記錄連線狀況"
   navbar:
     - title: Status
       href: /
