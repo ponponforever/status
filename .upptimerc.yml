@@ -41,9 +41,15 @@ sites:
   - name: 永遠的胖胖
     slug: ponpon-forever-main
     url: https://ponponforever.net/main
-  - name: 詩班通訊
-    slug: choir-communications
-    url: https://ponponforever.net/cfcchc
+  - name: 詩班通訊應該需要密碼
+    slug: choir-communications-guest
+    expectedStatusCodes: 401    
+    url: https://ponponforever.net/cfcchc/
+  - name: 詩班通訊可用密碼進入
+    slug: choir-communications-password  
+    url: https://ponponforever.net/cfcchc/
+    headers:
+    - "Authorization: Basic $COMMS_PASSWORD"
   - name: 舊金山討論區
     slug: san-francisco-forum
     url: https://ponponforever.net/forum
@@ -68,9 +74,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Ponpon Forever Sites Status
   introTitle: "永遠的胖胖: 所有網站狀態一覽"
   introMessage: "此網頁定期拜訪以下所有網站, 並記錄連線狀況"
   navbar:
