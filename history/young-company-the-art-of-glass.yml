@@ -1,7 +1,7 @@
 url: https://ponponforever.net/samples/youngcom
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2025-10-31T23:18:58.020Z
+status: down
+code: 429
+responseTime: 112
+lastUpdated: 2025-11-01T09:27:22.294Z
 startTime: 2025-01-17T01:18:49.476Z
 generator: Upptime <https://github.com/upptime/upptime>
