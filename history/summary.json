@@ -4,15 +4,15 @@
     "url": "https://ponponforever.net/sf",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "ponpon-forever",
-    "status": "down",
+    "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "71.09%",
+    "uptimeDay": "84.68%",
+    "uptimeWeek": "71.10%",
     "uptimeMonth": "74.76%",
     "uptimeYear": "96.60%",
     "time": 431,
-    "timeDay": 410,
-    "timeWeek": 427,
+    "timeDay": 411,
+    "timeWeek": 426,
     "timeMonth": 436,
     "timeYear": 415,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
       "2026-06-06": 751,
       "2026-06-08": 405,
       "2026-06-09": 125,
-      "2026-06-10": 202
+      "2026-06-10": 205
     }
   },
   {
@@ -76,16 +76,16 @@
     "url": "https://ponponforever.net/qmo",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "qmo",
-    "status": "down",
+    "status": "up",
     "uptime": "97.60%",
-    "uptimeDay": "85.56%",
-    "uptimeWeek": "71.66%",
+    "uptimeDay": "85.35%",
+    "uptimeWeek": "71.67%",
     "uptimeMonth": "75.08%",
     "uptimeYear": "96.64%",
-    "time": 124,
-    "timeDay": 328,
-    "timeWeek": 345,
-    "timeMonth": 358,
+    "time": 125,
+    "timeDay": 333,
+    "timeWeek": 344,
+    "timeMonth": 357,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2026-04-10": 105,
@@ -140,7 +140,7 @@
       "2026-06-06": 728,
       "2026-06-08": 400,
       "2026-06-09": 115,
-      "2026-06-10": 198
+      "2026-06-10": 201
     }
   },
   {
@@ -148,16 +148,16 @@
     "url": "https://ponponforever.net/cestlavie",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "ponpon-diary",
-    "status": "down",
+    "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "86.22%",
-    "uptimeWeek": "72.24%",
+    "uptimeDay": "86.02%",
+    "uptimeWeek": "72.25%",
     "uptimeMonth": "75.40%",
     "uptimeYear": "96.69%",
     "time": 855,
-    "timeDay": 739,
-    "timeWeek": 1148,
-    "timeMonth": 962,
+    "timeDay": 931,
+    "timeWeek": 1146,
+    "timeMonth": 966,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2026-04-08": 62,
@@ -214,7 +214,7 @@
       "2026-06-06": 703,
       "2026-06-08": 396,
       "2026-06-09": 106,
-      "2026-06-10": 193
+      "2026-06-10": 196
     }
   },
   {
@@ -222,10 +222,10 @@
     "url": "https://ponponforever.net/yoniagu",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "yonia-in-wonder-world",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "72.81%",
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "86.69%",
+    "uptimeWeek": "72.82%",
     "uptimeMonth": "75.72%",
     "uptimeYear": "96.72%",
     "time": 0,
@@ -288,7 +288,7 @@
       "2026-06-06": 680,
       "2026-06-08": 391,
       "2026-06-09": 96,
-      "2026-06-10": 188
+      "2026-06-10": 191
     }
   },
   {
@@ -296,17 +296,17 @@
     "url": "https://ponponforever.net/miao",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "signature-combo-cafe",
-    "status": "down",
+    "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "87.55%",
-    "uptimeWeek": "73.39%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "73.40%",
     "uptimeMonth": "76.04%",
     "uptimeYear": "96.76%",
     "time": 123,
-    "timeDay": 324,
-    "timeWeek": 354,
-    "timeMonth": 367,
-    "timeYear": 126,
+    "timeDay": 332,
+    "timeWeek": 353,
+    "timeMonth": 366,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2026-04-08": 62,
       "2026-04-09": 54,
@@ -362,7 +362,7 @@
       "2026-06-06": 656,
       "2026-06-08": 386,
       "2026-06-09": 91,
-      "2026-06-10": 179
+      "2026-06-10": 182
     }
   },
   {
@@ -370,17 +370,17 @@
     "url": "https://ponponforever.net/walking",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "walking",
-    "status": "down",
+    "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "76.13%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "76.14%",
     "uptimeMonth": "76.86%",
     "uptimeYear": "96.84%",
     "time": 117,
-    "timeDay": 309,
+    "timeDay": 318,
     "timeWeek": 333,
     "timeMonth": 346,
-    "timeYear": 118,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2026-04-08": 62,
       "2026-04-09": 54,
@@ -436,7 +436,7 @@
       "2026-06-06": 631,
       "2026-06-08": 381,
       "2026-06-09": 86,
-      "2026-06-10": 170
+      "2026-06-10": 172
     }
   },
   {
@@ -444,16 +444,16 @@
     "url": "https://ponponforever.net/sandymonblog",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "sandymon-painting",
-    "status": "down",
+    "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "88.88%",
-    "uptimeWeek": "76.70%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "76.72%",
     "uptimeMonth": "77.18%",
     "uptimeYear": "96.86%",
     "time": 112,
-    "timeDay": 283,
-    "timeWeek": 304,
-    "timeMonth": 322,
+    "timeDay": 290,
+    "timeWeek": 303,
+    "timeMonth": 321,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2026-04-09": 53,
@@ -509,7 +509,7 @@
       "2026-06-06": 606,
       "2026-06-08": 376,
       "2026-06-09": 81,
-      "2026-06-10": 160
+      "2026-06-10": 162
     }
   },
   {
@@ -517,15 +517,15 @@
     "url": "https://ponponforever.net/sandymom",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "sandymon-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "74.98%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "74.99%",
     "uptimeMonth": "76.97%",
     "uptimeYear": "96.86%",
     "time": 103,
-    "timeDay": 301,
-    "timeWeek": 254,
+    "timeDay": 271,
+    "timeWeek": 253,
     "timeMonth": 258,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -582,7 +582,7 @@
       "2026-06-06": 582,
       "2026-06-08": 371,
       "2026-06-09": 76,
-      "2026-06-10": 150
+      "2026-06-10": 153
     }
   },
   {
@@ -590,15 +590,15 @@
     "url": "https://ponponforever.net/boringer2",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "boringer2",
-    "status": "down",
+    "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "90.21%",
-    "uptimeWeek": "75.51%",
-    "uptimeMonth": "77.28%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "75.52%",
+    "uptimeMonth": "77.27%",
     "uptimeYear": "96.89%",
     "time": 590,
-    "timeDay": 450,
-    "timeWeek": 500,
+    "timeDay": 517,
+    "timeWeek": 505,
     "timeMonth": 551,
     "timeYear": 598,
     "dailyMinutesDown": {
@@ -655,7 +655,7 @@
       "2026-06-06": 558,
       "2026-06-08": 367,
       "2026-06-09": 72,
-      "2026-06-10": 141
+      "2026-06-10": 144
     }
   },
   {
@@ -663,17 +663,17 @@
     "url": "https://ponponforever.net/benny",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "boringer-see-world",
-    "status": "down",
+    "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "76.04%",
-    "uptimeMonth": "77.59%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "76.05%",
+    "uptimeMonth": "77.58%",
     "uptimeYear": "96.93%",
     "time": 102,
-    "timeDay": 241,
-    "timeWeek": 245,
+    "timeDay": 240,
+    "timeWeek": 244,
     "timeMonth": 254,
-    "timeYear": 101,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-09": 53,
       "2026-04-10": 103,
@@ -728,7 +728,7 @@
       "2026-06-06": 535,
       "2026-06-08": 362,
       "2026-06-09": 67,
-      "2026-06-10": 132
+      "2026-06-10": 134
     }
   },
   {
@@ -736,17 +736,17 @@
     "url": "https://ponponforever.net/boringerlog",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "boringer-log",
-    "status": "down",
+    "status": "up",
     "uptime": "97.83%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "76.57%",
-    "uptimeMonth": "77.90%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "76.58%",
+    "uptimeMonth": "77.89%",
     "uptimeYear": "96.97%",
     "time": 115,
-    "timeDay": 347,
-    "timeWeek": 343,
+    "timeDay": 337,
+    "timeWeek": 341,
     "timeMonth": 356,
-    "timeYear": 117,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2026-04-09": 52,
       "2026-04-10": 103,
@@ -801,7 +801,7 @@
       "2026-06-06": 511,
       "2026-06-08": 357,
       "2026-06-09": 62,
-      "2026-06-10": 122
+      "2026-06-10": 124
     }
   },
   {
@@ -809,15 +809,15 @@
     "url": "https://ponponforever.net/bennyradio",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "benny-radio",
-    "status": "down",
+    "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "92.21%",
-    "uptimeWeek": "77.10%",
-    "uptimeMonth": "78.21%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "77.11%",
+    "uptimeMonth": "78.20%",
     "uptimeYear": "96.96%",
     "time": 119,
-    "timeDay": 316,
-    "timeWeek": 348,
+    "timeDay": 327,
+    "timeWeek": 347,
     "timeMonth": 358,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -875,7 +875,7 @@
       "2026-06-06": 486,
       "2026-06-08": 352,
       "2026-06-09": 57,
-      "2026-06-10": 112
+      "2026-06-10": 114
     }
   },
   {
@@ -883,15 +883,15 @@
     "url": "https://ponponforever.net/kitchen",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "ponpon-kitchen",
-    "status": "down",
+    "status": "up",
     "uptime": "97.88%",
-    "uptimeDay": "92.88%",
-    "uptimeWeek": "77.62%",
-    "uptimeMonth": "78.52%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "77.64%",
+    "uptimeMonth": "78.51%",
     "uptimeYear": "97.04%",
-    "time": 633,
-    "timeDay": 463,
-    "timeWeek": 521,
+    "time": 632,
+    "timeDay": 516,
+    "timeWeek": 524,
     "timeMonth": 544,
     "timeYear": 631,
     "dailyMinutesDown": {
@@ -948,7 +948,7 @@
       "2026-06-06": 461,
       "2026-06-08": 347,
       "2026-06-09": 52,
-      "2026-06-10": 102
+      "2026-06-10": 104
     }
   },
   {
@@ -956,15 +956,15 @@
     "url": "https://ponponforever.net/main",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "ponpon-forever-main",
-    "status": "down",
+    "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "78.15%",
-    "uptimeMonth": "78.83%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "78.17%",
+    "uptimeMonth": "78.82%",
     "uptimeYear": "97.08%",
     "time": 106,
-    "timeDay": 275,
-    "timeWeek": 291,
+    "timeDay": 277,
+    "timeWeek": 290,
     "timeMonth": 299,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -1021,7 +1021,7 @@
       "2026-06-06": 437,
       "2026-06-08": 342,
       "2026-06-09": 47,
-      "2026-06-10": 93
+      "2026-06-10": 95
     }
   },
   {
@@ -1029,14 +1029,14 @@
     "url": "https://ponponforever.net/cfcchc/",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "choir-communications-guest",
-    "status": "down",
+    "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "78.68%",
-    "uptimeMonth": "79.14%",
-    "uptimeYear": "97.12%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "78.70%",
+    "uptimeMonth": "79.13%",
+    "uptimeYear": "97.11%",
     "time": 52,
-    "timeDay": 113,
+    "timeDay": 118,
     "timeWeek": 126,
     "timeMonth": 127,
     "timeYear": 53,
@@ -1093,7 +1093,7 @@
       "2026-06-06": 413,
       "2026-06-08": 338,
       "2026-06-09": 43,
-      "2026-06-10": 84
+      "2026-06-10": 86
     }
   },
   {
@@ -1101,14 +1101,14 @@
     "url": "https://ponponforever.net/cfcchc/",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "choir-communications-password",
-    "status": "down",
+    "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "79.21%",
-    "uptimeMonth": "79.45%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "79.23%",
+    "uptimeMonth": "79.44%",
     "uptimeYear": "97.15%",
     "time": 56,
-    "timeDay": 116,
+    "timeDay": 119,
     "timeWeek": 125,
     "timeMonth": 131,
     "timeYear": 56,
@@ -1165,7 +1165,7 @@
       "2026-06-06": 390,
       "2026-06-08": 333,
       "2026-06-09": 38,
-      "2026-06-10": 74
+      "2026-06-10": 76
     }
   },
   {
@@ -1173,16 +1173,16 @@
     "url": "https://ponponforever.net/forum",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "san-francisco-forum",
-    "status": "down",
+    "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "79.74%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "79.76%",
     "uptimeMonth": "79.75%",
     "uptimeYear": "97.19%",
     "time": 283,
-    "timeDay": 359,
-    "timeWeek": 389,
-    "timeMonth": 410,
+    "timeDay": 356,
+    "timeWeek": 386,
+    "timeMonth": 409,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2026-04-09": 51,
@@ -1237,7 +1237,7 @@
       "2026-06-06": 366,
       "2026-06-08": 328,
       "2026-06-09": 33,
-      "2026-06-10": 64
+      "2026-06-10": 66
     }
   },
   {
@@ -1245,15 +1245,15 @@
     "url": "https://ponponforever.net/travel",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "ponpon-and-benny-s-travel-log",
-    "status": "down",
+    "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "80.27%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "80.29%",
     "uptimeMonth": "80.06%",
     "uptimeYear": "97.23%",
-    "time": 101,
-    "timeDay": 232,
-    "timeWeek": 247,
+    "time": 102,
+    "timeDay": 236,
+    "timeWeek": 246,
     "timeMonth": 256,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -1309,7 +1309,7 @@
       "2026-06-06": 341,
       "2026-06-08": 323,
       "2026-06-09": 28,
-      "2026-06-10": 55
+      "2026-06-10": 56
     }
   },
   {
@@ -1317,16 +1317,16 @@
     "url": "https://ponponforever.net/samples/youngcom",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "young-company-the-art-of-glass",
-    "status": "down",
+    "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "80.80%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "80.82%",
     "uptimeMonth": "80.37%",
     "uptimeYear": "97.26%",
     "time": 103,
-    "timeDay": 228,
-    "timeWeek": 240,
-    "timeMonth": 254,
+    "timeDay": 231,
+    "timeWeek": 239,
+    "timeMonth": 253,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-09": 50,
@@ -1381,7 +1381,7 @@
       "2026-06-06": 316,
       "2026-06-08": 318,
       "2026-06-09": 23,
-      "2026-06-10": 45
+      "2026-06-10": 46
     }
   },
   {
@@ -1389,16 +1389,16 @@
     "url": "https://ponponforever.net/3cats",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "signature-combo-original",
-    "status": "down",
+    "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "81.33%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "81.35%",
     "uptimeMonth": "80.68%",
     "uptimeYear": "97.30%",
     "time": 102,
-    "timeDay": 275,
+    "timeDay": 258,
     "timeWeek": 248,
-    "timeMonth": 260,
+    "timeMonth": 259,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-09": 50,
@@ -1453,7 +1453,7 @@
       "2026-06-06": 292,
       "2026-06-08": 313,
       "2026-06-09": 18,
-      "2026-06-10": 35
+      "2026-06-10": 37
     }
   },
   {
@@ -1461,15 +1461,15 @@
     "url": "https://ponponforever.net/family",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "ponpon-family",
-    "status": "down",
+    "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "82.81%",
-    "uptimeMonth": "81.30%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "81.29%",
     "uptimeYear": "97.22%",
     "time": 102,
-    "timeDay": 240,
-    "timeWeek": 248,
+    "timeDay": 238,
+    "timeWeek": 247,
     "timeMonth": 256,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -1525,7 +1525,7 @@
       "2026-06-05": 131,
       "2026-06-06": 214,
       "2026-06-08": 309,
-      "2026-06-10": 12
+      "2026-06-10": 14
     }
   },
   {
@@ -1533,16 +1533,16 @@
     "url": "https://ponponforever.net/cats",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "cats",
-    "status": "down",
+    "status": "up",
     "uptime": "98.03%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "83.00%",
-    "uptimeMonth": "81.50%",
-    "uptimeYear": "97.25%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "83.02%",
+    "uptimeMonth": "81.49%",
+    "uptimeYear": "97.24%",
     "time": 102,
-    "timeDay": 226,
-    "timeWeek": 246,
-    "timeMonth": 255,
+    "timeDay": 230,
+    "timeWeek": 245,
+    "timeMonth": 254,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-05": 346,
@@ -1597,7 +1597,7 @@
       "2026-06-05": 126,
       "2026-06-06": 209,
       "2026-06-08": 304,
-      "2026-06-10": 8
+      "2026-06-10": 9
     }
   },
   {
@@ -1605,16 +1605,16 @@
     "url": "https://ponponforever.net/samples/youngcom",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "young-company-the-art-of-glass",
-    "status": "down",
+    "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "80.80%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "80.83%",
     "uptimeMonth": "80.37%",
     "uptimeYear": "97.26%",
     "time": 103,
-    "timeDay": 228,
-    "timeWeek": 240,
-    "timeMonth": 254,
+    "timeDay": 231,
+    "timeWeek": 239,
+    "timeMonth": 253,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-09": 50,
@@ -1669,7 +1669,7 @@
       "2026-06-06": 316,
       "2026-06-08": 318,
       "2026-06-09": 23,
-      "2026-06-10": 45
+      "2026-06-10": 46
     }
   }
 ]
