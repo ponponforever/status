@@ -253,12 +253,12 @@
     "url": "https://ponponforever.net/yoniagu",
     "icon": "https://icons.duckduckgo.com/ip3/ponponforever.net.ico",
     "slug": "yonia-in-wonder-world",
-    "status": "down",
+    "status": "up",
     "uptime": "97.26%",
-    "uptimeDay": "90.86%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "85.97%",
-    "uptimeYear": "95.90%",
+    "uptimeDay": "87.25%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "85.85%",
+    "uptimeYear": "95.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -328,7 +328,7 @@
       "2026-07-13": 19,
       "2026-07-14": 97,
       "2026-07-15": 192,
-      "2026-07-17": 131
+      "2026-07-17": 183
     }
   },
   {
